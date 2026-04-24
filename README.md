@@ -5,7 +5,7 @@ Software Developer
 ------------------------
 
 * 🌍  I'm based in Liverpool, UK
-* Fluent in Portuguese 🇧🇷 and English 🇺🇸
+* Fluent in Portuguese 🇧🇷, English 🇺🇸 and Spanish 🇪🇸
 * 🧪 Looking to collaborate on LLM research, NLP projects, Computer Vision/ML research, and AI-driven tools
 * ✉️  Feel free to reach me at [mateuspadilhaluz@gmail.com](mailto:mateuspadilhaluz@gmail.com)
 
